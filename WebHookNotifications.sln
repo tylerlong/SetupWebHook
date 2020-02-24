@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHookNotifications", "WebHookNotifications\WebHookNotifications.csproj", "{4127B26F-A7C9-4027-BF32-D0DA5B8269AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4127B26F-A7C9-4027-BF32-D0DA5B8269AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4127B26F-A7C9-4027-BF32-D0DA5B8269AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4127B26F-A7C9-4027-BF32-D0DA5B8269AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4127B26F-A7C9-4027-BF32-D0DA5B8269AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
